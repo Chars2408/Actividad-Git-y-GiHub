@@ -1,9 +1,6 @@
 USAC – EFPEM
 Lic. en la Enseñanza de la Informática y la Computación.
 Curso: Didáctica de la programación
- 
-
-------------
 
 <center>
 <h3>GIT y GitHub</h3GIT>

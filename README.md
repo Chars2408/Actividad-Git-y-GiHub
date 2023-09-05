@@ -1,3 +1,4 @@
+USAC – EFPEM
 Lic. en la Enseñanza de la Informática y la Computación.
 Curso: Didáctica de la programación
  
@@ -12,7 +13,6 @@ Curso: Didáctica de la programación
 |   Nombre| Charles Esteban Cotzojay Subuyuj  |
 | ------------ | ------------ |
 | Carné  |  201115614 |
-
 
 Esta actividad tiene como propósito repasar el uso de Git y GitHub, además de utilizar
 un archivo README.md, el cual es un archivo de texto que sirve como documentación
